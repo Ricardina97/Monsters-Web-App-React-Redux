@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Monsters-Web-App-React-Redux/static/css/main.a5dcdfdf.chunk.css",
+    "main.js": "/Monsters-Web-App-React-Redux/static/js/main.4f277ec1.chunk.js",
+    "main.js.map": "/Monsters-Web-App-React-Redux/static/js/main.4f277ec1.chunk.js.map",
+    "runtime-main.js": "/Monsters-Web-App-React-Redux/static/js/runtime-main.1ed0e272.js",
+    "runtime-main.js.map": "/Monsters-Web-App-React-Redux/static/js/runtime-main.1ed0e272.js.map",
+    "static/js/2.fcb60162.chunk.js": "/Monsters-Web-App-React-Redux/static/js/2.fcb60162.chunk.js",
+    "static/js/2.fcb60162.chunk.js.map": "/Monsters-Web-App-React-Redux/static/js/2.fcb60162.chunk.js.map",
+    "index.html": "/Monsters-Web-App-React-Redux/index.html",
+    "precache-manifest.e74a01a0aaa4a5b14cdc072782a11427.js": "/Monsters-Web-App-React-Redux/precache-manifest.e74a01a0aaa4a5b14cdc072782a11427.js",
+    "service-worker.js": "/Monsters-Web-App-React-Redux/service-worker.js",
+    "static/css/main.a5dcdfdf.chunk.css.map": "/Monsters-Web-App-React-Redux/static/css/main.a5dcdfdf.chunk.css.map",
+    "static/js/2.fcb60162.chunk.js.LICENSE.txt": "/Monsters-Web-App-React-Redux/static/js/2.fcb60162.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ed0e272.js",
+    "static/js/2.fcb60162.chunk.js",
+    "static/css/main.a5dcdfdf.chunk.css",
+    "static/js/main.4f277ec1.chunk.js"
+  ]
+}
